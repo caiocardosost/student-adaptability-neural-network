@@ -12,7 +12,7 @@ Project developed during graduation to classify the level of adaptability of stu
 ## Structure
 
 ```text
-├── date/
+├── data/
 ├── src/
 ├── report/
 └── README.md
