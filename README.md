@@ -24,9 +24,9 @@ Project developed during graduation to classify the level of adaptability of stu
 - Manual implementation of neural network
 - Training with backpropagation
 - Classification into 3 levels of adaptability:
-  -Low
+  - Low
   - Moderate
-  -High
+  - High
 
 ## How to execute
 
@@ -41,5 +41,7 @@ python src/student_adaptability_nn.py
 ## Authors
 
 Caio Cardoso dos Santos
+
 Joel da Silva Junior 
+
 Victor Ravazio de Lima
