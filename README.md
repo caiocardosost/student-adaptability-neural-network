@@ -1,4 +1,4 @@
-# Student Adaptability Neural Network
+# Neural network for predicting adaptability to distance education.
 
 Project developed during graduation to classify the level of adaptability of students to online education using a neural network manually implemented with NumPy.
 
